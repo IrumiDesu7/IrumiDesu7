@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IrumiDesu7 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Fullstack Web Development
-- 💞️ I’m looking to collaborate on a web development project especially in front-end side (for now)
+- 💞️ I’m looking to collaborate on a web development project especially in front-end side
 - 📫 How to reach me @Discord : arthurr#2568
 My avatar image is from Google (Google profile picture selector)
 <!---
