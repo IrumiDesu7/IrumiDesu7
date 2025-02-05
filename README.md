@@ -1,38 +1,34 @@
-# Hello, I'm IrumiDesu7 👋
+# Ilmi Kalam
 
-## About Me
-- 💻 Passionate Web Developer with a focus on creating intuitive, responsive user experiences
-- 🎨 Frontend specialist proficient in React and Vue.js ecosystems
-- 🖌️ Skilled in modern UI/UX design, leveraging tools like TailwindCSS and Shadcn-ui
-- 📚 Lifelong learner, always excited to explore new technologies and enhance my coding prowess
+A front-end developer focused on crafting elegant solutions with modern web technologies.
 
-## What I Bring to the Table
-- 🤝 Collaborative mindset, eager to contribute to innovative web development projects
-- 🚀 Strong desire to tackle challenging projects that foster growth and push technological boundaries
-- 💡 Creative problem-solver with a keen eye for detail and user-centric design
+## Professional Focus
+- Frontend architecture with emphasis on scalability and clean code
+- Developing intuitive user interfaces with modern frameworks
+- Performance optimization and responsive design implementation
 
-## Tech Stack
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** React, Next.js, Vue.js, Nuxt.js
-- **Tools:** TailwindCSS, Git, GitHub, Vercel
-- **CMS:** DatoCMS, Sanity CMS
+## Technical Expertise
+- **Core:** JavaScript, TypeScript
+- **Frontend:** React.js, Vue.js, Next.js, Nuxt.js
+- **Styling:** Tailwind CSS, Modern UI Libraries
+- **Tools:** Webpack, Git
 
-## Let's Connect!
-- 📧 [Email](mailto:ikalam89@gmail.com)
+## Notable Projects
 
-## Featured Projects
-1. [**My Portfolio**](https://irumi-station.vercel.app): A showcase of my skills and projects. ([GitHub Repo](https://github.com/IrumiDesu7/irumi-station))
-2. **Blog Platform:** An exciting blog project using headless CMS (in progress, stay tuned!)
-3. [**sequence.day**](https://sequence.day) & [**app.sequence.day**](https://app.sequence.day): Professional work projects demonstrating real-world application of my skills
+**Landing Page Development**
+- Implemented modern component libraries
+- Optimized performance through proper component architecture
 
-## Open for Opportunities
-I'm always on the lookout for exciting projects and opportunities to collaborate. Feel free to explore my [repositories](https://github.com/IrumiDesu7?tab=repositories) and reach out if you think we could create something amazing together!
+**Analytics Dashboard**
+- Developed comprehensive data visualization systems
+- Optimized large dataset handling with efficient loading strategies
 
----
+**Interactive Web Platforms**
+- Created engaging user interfaces with modern animation libraries
+- Implemented dynamic content management systems
+- Ensured cross-browser compatibility and responsive design
 
-💻 Happy coding, and looking forward to connecting with fellow developers and potential collaborators!
+## Connect
+[Portfolio](https://irumi.xyz) | [Email](mailto:ikalam89@gmail.com)
 
-<!---
-IrumiDesu7/IrumiDesu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently open to interesting projects and collaborations.
