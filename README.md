@@ -1,4 +1,4 @@
-# Ilmi Kalam
+# Ilmi
 
 A front-end developer focused on crafting elegant solutions with modern web technologies.
 
