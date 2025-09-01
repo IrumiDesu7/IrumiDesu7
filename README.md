@@ -1,34 +1,47 @@
 # Ilmi
 
-A front-end developer focused on crafting elegant solutions with modern web technologies.
+Frontend developer with 2+ years building production applications serving thousands of users across Indonesia.
 
-## Professional Focus
-- Frontend architecture with emphasis on scalability and clean code
-- Developing intuitive user interfaces with modern frameworks
-- Performance optimization and responsive design implementation
+## Current Work
+Building scalable web applications with Next.js 15, React 19, and Vue.js 3. Recently architected micro-frontend solutions for enterprise wealth management systems.
 
-## Technical Expertise
-- **Core:** JavaScript, TypeScript
-- **Frontend:** React.js, Vue.js, Next.js, Nuxt.js
-- **Styling:** Tailwind CSS, Modern UI Libraries
-- **Tools:** Webpack, Git
+## Technical Stack
+- **Languages:** TypeScript, JavaScript
+- **Frameworks:** Next.js 15, React 19, Vue.js 3, Nuxt.js
+- **Architecture:** Micro-frontends, App Router, Composition API
+- **Styling:** Tailwind CSS, shadcn/ui
+- **Data:** Zod validation, React Hook Form, RESTful APIs
+- **Performance:** Lazy loading, multi-level caching, WebSocket integration
 
-## Notable Projects
+## Recent Projects
 
-**Landing Page Development**
-- Implemented modern component libraries
-- Optimized performance through proper component architecture
+### Getwash Laundry Platform
+Full-stack laundry service platform with real-time order tracking
+- Built with Next.js 15 App Router and React 19
+- Implemented i18n system with localized routing (ID/EN)
+- Integrated Google reCAPTCHA v3 with server-side verification
+- [Live Site](https://getwashlaundry.id)
 
-**Analytics Dashboard**
-- Developed comprehensive data visualization systems
-- Optimized large dataset handling with efficient loading strategies
+### CIMB Wealth Management System
+Enterprise micro-frontend architecture for banking platform
+- Developed independent micro-frontend modules with Redux state management
+- Ensured seamless integration with container application
+- Collaborated with Praisindo team through Agile methodology
 
-**Interactive Web Platforms**
-- Created engaging user interfaces with modern animation libraries
-- Implemented dynamic content management systems
-- Ensured cross-browser compatibility and responsive design
+### Sequence SEO Platform
+Comprehensive SEO analytics tool with real-time data visualization
+- Migrated to Next.js 13+ App Router with proper server/client separation
+- Implemented WebSocket integration for live notifications
+- Built Site Audit feature with Highcharts for complex metrics visualization
+- [App](https://app.sequence.day) | [Landing](https://sequence.day)
+
+## Experience Timeline
+- **Freelance Developer** (Current) - Next.js 15, internationalization, type-safe APIs
+- **Datacakra** - Vue.js 3, Composition API development
+- **Aka Tech Vision** - Enterprise micro-frontend architecture
+- **cmlabs** - Multi-project development with Next.js/Nuxt.js
 
 ## Connect
-[Portfolio](https://irumi.xyz) | [Email](mailto:ikalam89@gmail.com)
+[Portfolio](https://irumi.xyz) | [LinkedIn](https://linkedin.com/in/ilmi-kalam) | [Email](mailto:ikalam89@gmail.com)
 
-Currently open to interesting projects and collaborations.
+Open to remote opportunities in frontend architecture and modern web development.
