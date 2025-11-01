@@ -1,9 +1,13 @@
 # Ilmi
 
-Frontend developer with 2+ years building production applications serving thousands of users across Indonesia.
+## Why I Build
+I believe that well-crafted web applications should be more than just functional—they should be fast, accessible, and delightful to use. Every line of code I write is driven by the vision that better frontend architecture directly translates to better user experiences for thousands of people.
 
-## Current Work
-Building scalable web applications with Next.js 15, React 19, and Vue.js 3. Recently architected micro-frontend solutions for enterprise wealth management systems.
+## How I Approach Development
+I achieve this through modern frontend architecture, type-safe development, and performance-first design. By leveraging cutting-edge technologies like Next.js 15, React 19, and micro-frontend patterns, I build scalable solutions that grow with business needs while maintaining code quality and developer experience.
+
+## What I Do
+Frontend developer with 2+ years building production applications serving thousands of users across Indonesia. Recently architected micro-frontend solutions for enterprise wealth management systems and full-stack platforms with real-time capabilities.
 
 ## Technical Stack
 - **Languages:** TypeScript, JavaScript
